@@ -29,6 +29,8 @@ To use this project:
 - Connect the Arduino board to a power source.
 - Click the push button to turn on the LEDs.
 - Each click will cause the LEDs to light up in a different pattern, according to the number of clicks received.
+# Tinkercad
+- You can view a live simulaton of the project through the following link on [Tinkercad](https://www.tinkercad.com/things/3hFKVdEEmry-led-click-counter)
 # Contributing
 If you'd like to contribute to this project, please follow these steps:
 
