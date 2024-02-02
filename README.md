@@ -20,8 +20,8 @@ To run this project, you will need the following:
 To install this project, follow these steps:
 
 1. Clone the repository to your local machine using Git or download it as a ZIP file.
-2. Connect the LEDs and push button to the Arduino board according to the wiring diagram provided in the schematic.png file.
-3. Open arduino_led_click_counter.ino file in the Arduino IDE.
+2. Connect the LEDs and push button to the Arduino board according to the wiring diagram provided in the schematic.png file. ![](schematic.png)
+3. Open led-click-counter.ino file in the Arduino IDE.
 4. Compile the code and upload it to the Arduino board.
 # Usage
 To use this project:
